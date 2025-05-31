@@ -1,0 +1,56 @@
+# 👋 Hi there! I'm Corentin Dupriez
+
+💼 **Business Analyst** | 🐍 **Python Learner** | 💡 **Data & Product Thinker**
+
+---
+
+I'm a business analyst who loves solving business problems with data and technology. Since 2021, I've been working at the intersection of users, data, and software — helping teams understand how their products are used and where they can be improved.
+
+In my current role, I use **Python** to analyze software usage, uncover trends, and drive product improvements. I'm actively growing my skills in **web development** and **data analysis** using tools like `pandas`, `SQL`, `Jupyter`, `Matplotlib`, `Seaborn`, and `Django`.
+
+---
+
+## 🚀 What I'm Working On
+
+- 📊 Building projects to analyze product usage data and simulate real business insights  
+- 🌐 Learning Django to create lightweight data-driven web apps  
+- 🧠 Practicing clean architecture and bridging the gap between business and code  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, SQL, HTML/CSS
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- **Web:** Django (learning)
+- **Tools:** Git, GitHub, VS Code, PyCharm, Jira
+
+---
+
+## 📚 Learning Journey
+
+I'm currently leveling up in:
+- 🔹 Python for Data Science & Web Development
+- 🔹 Building CRUD apps with Django
+- 🔹 Structuring data analysis workflows
+- 🔹 Writing cleaner, modular code
+
+---
+
+## 🎯 Career Goals
+
+I'm actively exploring opportunities to transition into more technical roles, including:
+- 🐍 Python Development  
+- 📈 Data Analytics  
+- 🧩 Technical Business Analysis  
+
+---
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/corentin-dupriez-407748131/)  
+- Email: dupriez.c@icloud.com
+
+---
+
+_Thanks for stopping by!_ 🙌
