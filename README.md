@@ -12,8 +12,8 @@ In my current role, I use **Python** to analyze software usage, uncover trends, 
 
 ## 🚀 What I'm Working On
 
-- 📊 Building projects to analyze product usage data and simulate real business insights  
-- 🌐 Learning Django to create lightweight data-driven web apps  
+- 📊 Building projects to analyze data on IT jobs in Bulgaria  
+- 🌐 Learning Django to create lightweight websites  
 - 🧠 Practicing clean architecture and bridging the gap between business and code  
 
 ---
@@ -31,7 +31,7 @@ In my current role, I use **Python** to analyze software usage, uncover trends, 
 
 I'm currently leveling up in:
 - 🔹 Python for Data Science & Web Development
-- 🔹 Building CRUD apps with Django
+- 🔹 Building websites with Django
 - 🔹 Structuring data analysis workflows
 - 🔹 Writing cleaner, modular code
 
