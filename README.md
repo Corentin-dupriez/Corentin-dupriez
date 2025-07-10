@@ -20,10 +20,10 @@ In my current role, I use **Python** to analyze software usage, uncover trends, 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, HTML/CSS
+- **Languages:** Python, SQL, HTML/CSS, Go (learning)
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- **Web:** Django (learning)
-- **Tools:** Git, GitHub, VS Code, PyCharm, Jira
+- **Web:** Django (learning), Django REST framework, Go Colly
+- **Tools:** Git, GitHub, VS Code, PyCharm, Jira, Goland
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corentin-dupriez" alt="corentindupriezlanguages">
 
 ---
@@ -34,7 +34,8 @@ I'm currently leveling up in:
 - 🔹 Python for Data Science & Web Development
 - 🔹 Building websites with Django
 - 🔹 Structuring data analysis workflows
-- 🔹 Writing cleaner, modular code
+- 🔹 Writing cleaner, modular code]
+- 🔹 Learning go as an example of a compiled language
 
 ---
 
