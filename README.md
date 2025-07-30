@@ -22,8 +22,8 @@ In my current role, I use **Python** to analyze software usage, uncover trends, 
 
 - **Languages:** Python, SQL, HTML/CSS, Go (learning)
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- **Web:** Django (learning), Django REST framework, Go Colly
-- **Tools:** Git, GitHub, VS Code, PyCharm, Jira, Goland
+- **Web:** Django, Django REST framework, Go Colly
+- **Tools:** Git, GitHub, VS Code, PyCharm, Jira, Goland, Neovim
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corentin-dupriez" alt="corentindupriezlanguages">
 
 ---
