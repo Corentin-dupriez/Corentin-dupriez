@@ -34,7 +34,7 @@ I'm currently leveling up in:
 - 🔹 Python for Data Science & Web Development
 - 🔹 Building websites with Django
 - 🔹 Structuring data analysis workflows
-- 🔹 Writing cleaner, modular code]
+- 🔹 Writing cleaner, modular code
 - 🔹 Learning go as an example of a compiled language
 - 🔹 Arduino
 
