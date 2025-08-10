@@ -20,7 +20,7 @@ In my current role, I use **Python** to analyze software usage, uncover trends, 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, HTML/CSS, Go (learning)
+- **Languages:** Python, SQL, HTML/CSS, Go (learning), C++ (learning for Arduino)
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter
 - **Web:** Django, Django REST framework, Go Colly
 - **Tools:** Git, GitHub, VS Code, PyCharm, Jira, Goland, Neovim
@@ -36,6 +36,7 @@ I'm currently leveling up in:
 - 🔹 Structuring data analysis workflows
 - 🔹 Writing cleaner, modular code]
 - 🔹 Learning go as an example of a compiled language
+- 🔹 Arduino
 
 ---
 
